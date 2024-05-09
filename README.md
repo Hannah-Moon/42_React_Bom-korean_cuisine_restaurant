@@ -6,15 +6,22 @@
 
 1. **Break User Interface into Components:** I started the project by wireframing two interactive screens, the main menu screen, and the modal screen.
 
-   |                      Main menu screen                       | Triggered modal screen                                             |
-   | :---------------------------------------------------------: | :----------------------------------------------------------------- |
-   | ![Main menu screen](assets/Korean_Restaurant_Food_Page.png) | ![Triggered modal screen](assets/Korean_Restaurant_Food_Modal.png) |
+   |                         Main menu screen                          | Triggered modal screen                                             |
+   | :---------------------------------------------------------------: | :----------------------------------------------------------------- |
+   | <img width="250px" src="assets/Korean Restaurant Food Page.png"/> | <img width="250px" src="assets/Korean Restaurant Food_Modal.png"/> |
+   |    [Main menu screen](assets/Korean_Restaurant_Food_Page.png)     | [Triggered modal screen](assets/Korean_Restaurant_Food_Modal.png)  |
+
+   |                           Hannah Moon                           |
+   | :-------------------------------------------------------------: |
+   | <img width="160px" src="assets/Food page - Component map.png"/> |
+   |         [@Hannah-Moon](https://github.com/Hannah-Moon)          |
 
 2. **Build Static Layout:** Then I determined the static layout and interactivity of each component and labeled them. Afterward, I determined the state based on retrograde analysis. I added my analysis onto the initial wireframe and used color codes for easy reference during later coding work.
 
-   |                    Main menu screen                     | Triggered modal screen                                    |
-   | :-----------------------------------------------------: | :-------------------------------------------------------- |
-   | ![Main menu screen](assets/Food_Page_Component_Map.png) | ![Triggered modal screen](assets/Modal_Component_Map.png) |
+   |                        Main menu screen                         | Triggered modal screen                                      |
+   | :-------------------------------------------------------------: | :---------------------------------------------------------- |
+   | <img width="250px" src="assets/Food page - Component map.png"/> | <img width="250px" src="assets/Modal - Component map.png"/> |
+   |     [Main menu screen](assets/Food_Page_Component_Map.png)      | [Triggered modal screen](assets/Modal_Component_Map.png)    |
 
 3. **Find the Minimal State Representation:** In this activity, I asked the following questions to determine whether a component should have state or not and how it should react:
 
