@@ -9,14 +9,12 @@
    |                         Main menu screen                          | Triggered modal screen                                             |
    | :---------------------------------------------------------------: | :----------------------------------------------------------------- |
    | <img width="400px" src="assets/Korean Restaurant Food Page.png"/> | <img width="400px" src="assets/Korean Restaurant Food_Modal.png"/> |
-   |    [Main menu screen](assets/Korean Restaurant Food Page.png)     | [Triggered modal screen](assets/Korean Restaurant Food_Modal.png)  |
 
 2. **Build Static Layout:** Then I determined the static layout and interactivity of each component and labeled them. Afterward, I determined the state based on retrograde analysis. I added my analysis onto the initial wireframe and used color codes for easy reference during later coding work.
 
    |                        Main menu screen                         | Triggered modal screen                                      |
    | :-------------------------------------------------------------: | :---------------------------------------------------------- |
    | <img width="400px" src="assets/Food page - Component map.png"/> | <img width="400px" src="assets/Modal - Component map.png"/> |
-   |    [Main menu screen](assets/Food page - Component map.png)     | [Triggered modal screen](assets/Modal - Component map.png)  |
 
 3. **Find the Minimal State Representation:** In this activity, I asked the following questions to determine whether a component should have state or not and how it should react:
 
