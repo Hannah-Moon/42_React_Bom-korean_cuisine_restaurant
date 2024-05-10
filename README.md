@@ -1,6 +1,6 @@
 # Thinking in React: Korean Restaurant
 
-## Key Takeaway 🔑
+## Process ⏳
 
 - Throughout this project, I applied five principles of Thinking in React. Here's how I did it:
 
@@ -27,6 +27,12 @@
 4. **Identify Where State Should Live:** In my case, each food card has its stats and it passes the data to the modal when users want to review the detailed information about the menu. I used props and the spread technique to extract the right data to parse.
 
 5. **Maintains a Clear and Explicit Data Flow:** I ensured that data changes are controlled and predictable, preventing unexpected behavior caused by automatic updates or two-way data binding, making it easier to manage and debug in this restaurant application.
+
+## Final outcome and Key Takeaway 🔑
+
+This is what my final outcome would look like. I focused more on the technical aspects of the application rather than its aesthetics. Since my skill development should focus on JavaScript and React, I eliminated all unnecessary lines of CSS code while keeping it to a bare minimum. I'm pleased with the outcome of the app and learned a lot in the process.
+
+<img src="assets/BomKoreanRestaurant"/>
 
 ## Getting Started with Create React App
 
